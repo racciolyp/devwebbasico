@@ -1,0 +1,20 @@
+h1 {
+	font: Tahoma;
+	padding: : 50px;
+	background-color: lightblue;
+	text-align: center;
+	padding: 5px;
+
+}
+
+
+
+p.Destaque {
+	font-size: 20pt;
+	color: red;
+}
+
+p.Footer {
+	font-size: 08pt;
+}
+
