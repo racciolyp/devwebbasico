@@ -1,0 +1,127 @@
+
+
+div.banner{
+background: url(./img/banner.jpg);
+height: 450px;}
+
+.caixa {
+
+position: absolute;
+left: 0%;
+right: 57.45%;
+top: 10.33%;
+bottom: 71.44%;
+
+background: rgba(0, 0, 0, 0.6);
+}
+
+li {
+	position: absolute;
+left: 24.47%;
+right: 8.06%;
+top: 2.29%;
+bottom: 96.01%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: right;
+
+color: #999999;
+}
+
+body { 
+	font-family: Helvetica;
+	margin: 0px;
+	text-align: center;
+
+	    color: #205D76;
+    font-size: 20px;
+}
+header{
+    color: gray;
+    text-align:  left;
+    margin-left: 270px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+nav{
+    text-align: right;
+    margin-right:250px; 
+    margin-bottom: 10px;   
+}
+
+nav a{
+    color: gray;
+    text-decoration: none;
+}
+
+a{
+    margin: 15px;
+    padding: 10px;   
+}
+
+.banner{
+    width: 1300px;
+    margin: auto;
+    position: relative;
+    color: white;
+}
+
+.banner img{
+    width: 100%;  
+}
+
+.caixa{
+    position: absolute;
+    bottom: 250px;
+    left: 0;
+    text-align: left;
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    size: 5;
+    overflow-wrap: break-word;
+    width: 530px;
+}
+
+.caixa a{
+    text-decoration: none;
+    color: aquamarine;
+}
+
+section{
+    display: flex;
+    margin-left: 260px;  
+}
+
+article{
+    width: 300px;
+   padding: 1px;
+   margin: 15px ; 
+}
+
+article img{
+    width: 300px;
+}
+
+footer{
+    text-align: left;
+    color: gray;
+    margin-left: 270px;
+}
+
+marker {text-align: center;
+
+}
+
+li.a
